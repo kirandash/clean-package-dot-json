@@ -1,0 +1,28 @@
+{
+  "name": "clean-package-dot-json",
+  "version": "0.0.0-semantic-release",
+  "description": "Clean package.json before publishing your package by removing unnecessary properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsx tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirandash/clean-package-dot-json.git"
+  },
+  "keywords": [
+    "npm",
+    "package.json",
+    "clean",
+    "prepublish",
+    "pack",
+    "publish",
+    "pakcage"
+  ],
+  "author": "Kiran Dash <kiran@bgwebagency.in> (https://bgwebagency.in/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirandash/clean-package-dot-json/issues"
+  },
+  "homepage": "https://github.com/kirandash/clean-package-dot-json#readme"
+}
