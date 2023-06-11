@@ -1,11 +1,11 @@
 import path from 'path'
-import execa from 'execa'
+import { execaNode } from 'execa'
 
 const buildScriptPath = path.resolve('./dist/index.js')
 
 describe('clean-package-dot-json', () => {
   test('removes redundant properties', async () => {
-    const { stdout } = await execa(buildScriptPath, ['--dry'], {
+    const { stdout } = await execaNode(buildScriptPath, ['--dry'], {
       cwd: path.resolve('./tests/test-package'),
     })
     expect(JSON.parse(stdout)).toEqual({
