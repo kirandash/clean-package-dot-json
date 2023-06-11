@@ -9,7 +9,7 @@ Feel free to reach me on other social platforms! 😊 <br />
 
 🙏 Support
 
-Please ⭐️ star this project and share it with others to show your support. [Follow me](https://github.com/kirandash) ❤️ for updates on future projecs and tutorials!
+Please ⭐️ star this project and share it with others to show your support. [Follow me](https://github.com/kirandash) ❤️ for updates on future projects and tutorials!
 
 ---
 
