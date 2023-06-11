@@ -1,6 +1,6 @@
 {
   "name": "clean-package-dot-json",
-  "version": "0.0.1",
+  "version": "0.0.0-semantic-release",
   "description": "Clean package.json before publishing your package by removing unnecessary properties.",
   "bin": "dist/index.js",
   "files": [
